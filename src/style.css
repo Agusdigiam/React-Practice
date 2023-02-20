@@ -1,0 +1,30 @@
+.card {
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.button {
+    background: orange;
+    padding: 12px;
+    border-radius: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+.article {
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
+}
+
+.cardart{
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+.button:hover{
+    background-color: white;
+    color: orange;
+}
